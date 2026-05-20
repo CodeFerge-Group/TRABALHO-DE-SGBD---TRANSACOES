@@ -1,0 +1,1 @@
+EXEC sp_RegistarVenda @ClienteID = 1, @FuncionarioID = 1, @ProdutoID = 1, @QuantidadeVendida = 3;
